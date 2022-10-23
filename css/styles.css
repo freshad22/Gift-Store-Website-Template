@@ -1,0 +1,21 @@
+/* цвет основного текста #000000; */
+/* вторичный цвет текста #FFFFFF; */
+/* основной белый цвет #FFFFFF; */
+/* вторичный цвет фона #F1F1F2; */
+/* подвал фон #FAFAFA; */
+/* акцент #F7941E; */
+/* filters btn bg  #231F20; */
+/* article bg #231F20; */
+
+/* GENERAL STYLES*/
+
+:root {
+    --primary-text-color: #000000;
+    --title-text-color: #FFFFFF;
+    --primary-white-coor: #FFFFFF;
+    --secondary-background-color: #F1F1F2;
+    --footer-header-background-color: #FAFAFA;
+    --accent-color: #F7941E;
+    --filters-btn-bg:  #231F20;
+    --article-bg: #231F20;
+}
